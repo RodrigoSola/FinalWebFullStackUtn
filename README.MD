@@ -20,7 +20,7 @@ Este proyecto es una API REST que administra las operaciones CRUD de tres modelo
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/RodrigoSola/FinalUtnWebFullStackDev.git
+git clone https://github.com/RodrigoSola/FinalWebFullStackUtn.git
 ```
 
 ### 2. Instalar Dependencias
